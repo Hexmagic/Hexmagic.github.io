@@ -10,13 +10,13 @@
 
 $f(x;w)=w^{T}x+b$
 
-其中w = [w1,··· ,wd]T 为d维的权重向量， b为偏置
+其中$w = [w_1,··· ,w_d]^T$ 为$d$维的权重向量， $b$为偏置
 
 在分类问题中，由于输出目标y 是一些离散的标签，而f(x;w)的值域为 实数，因此无法直接用f(x;w)来进行预测，需要引入一个非线性的决策函数 （Decision Function）g(.)来预测输出目标
 
 $y=g(f(x;w))$
 
-其中f(x;w)也称为判别函数（Discriminant Function）。
+其中$f(x;w)$也称为判别函数（Discriminant Function）。
 
 对于两类分类问题， g(·)可以是符号函数（Sign Function） 
 
