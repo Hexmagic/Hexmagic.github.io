@@ -28,10 +28,16 @@
 * [网络流](/articles/网络流.md)
 * [连通性问题]
 * [探测环]
+* [后缀树]
+* [AVL]
+* [红黑树]
+* [B Tree]
+* [Splay Tree]
+* [KD Tree]
 
 #### 4.其他
 
-*[双指针](/articles/双指针.md)
-*[滑动窗口](/articles/滑动窗口.md)
-*[链表](/articles/链表.md)
-*[位运算](/articles/位运算.md)
+* [双指针](/articles/双指针.md)
+* [滑动窗口](/articles/滑动窗口.md)
+* [链表](/articles/链表.md)
+* [位运算](/articles/位运算.md)
