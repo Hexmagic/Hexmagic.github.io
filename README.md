@@ -26,7 +26,6 @@
 * [拓扑排序](/articles/拓扑排序.md)
 * [线段树](/articles/线段树.md)
 * [网络流](/articles/网络流.md)
-* [连通性问题]
 * [探测环](/articles/探测环.md)
 * [后缀树]
 * [AVL]
